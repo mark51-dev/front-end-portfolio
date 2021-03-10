@@ -14,7 +14,7 @@
 - [<img alt="sb0na | Redux" width="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/redux.svg" />]Redux
 - [<img alt="sb0na | Redux thunk" width="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/react.svg" />]redux-thunk
 - [<img alt="sb0na | Redux Saga" width="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/redux-saga.svg" />]redux-saga
-- [<img alt="sb0na | GraphQL" width="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/apollographql.svg" />]GraphQL
+- [<img alt="sb0na | GraphQL" width="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/apollographql.svg" />]GraphQL - soon
 
 
 ### Contact me:
