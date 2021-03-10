@@ -24,4 +24,4 @@
 <br />
 
 
-[telegram]: @Sb0na
+[telegram]: https://t.me/Sb0na
