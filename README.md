@@ -8,11 +8,11 @@
 
 ### Libs/technologies
 - React[<img align="left" alt="sb0na | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/react.svg" />]
-- [<img align="left" alt="sb0na | Styled components" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/styled-components.svg" />] styled components
-- [<img align="left" alt="sb0na | Redux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/redux.svg" />] Redux
-- [<img align="left" alt="sb0na | Redux thunk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/react.svg" />] redux-thunk
-- [<img align="left" alt="sb0na | Redux Saga" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/redux-saga.svg" />] redux-saga
-- [<img align="left" alt="sb0na | GraphQL" width="22px" src="https://cdn.jsdelivr.netnpm/simple-icons@4.14.0/icons/apollographql.svg" />] GraphQL
+- [<img align="left" alt="sb0na | Styled components" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/styled-components.svg" />]styled components
+- [<img align="left" alt="sb0na | Redux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/redux.svg" />]Redux
+- [<img align="left" alt="sb0na | Redux thunk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/react.svg" />]redux-thunk
+- [<img align="left" alt="sb0na | Redux Saga" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/redux-saga.svg" />]redux-saga
+- [<img align="left" alt="sb0na | GraphQL" width="22px" src="https://cdn.jsdelivr.netnpm/simple-icons@4.14.0/icons/apollographql.svg" />]GraphQL
 
 ### Contact me:
 
@@ -21,4 +21,4 @@
 <br />
 
 
-[telegram]: Sb0na
+[telegram]: @Sb0na
